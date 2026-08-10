@@ -4,72 +4,68 @@ cv:
   email: priyada@purdue.edu
   location: West Lafayette, IN, USA
   image: ""
-  summary: >
-   ""
-
   social_networks:
-      network: Website
-      username: "" # add your site URL/handle here
+    - network: Website
+      username: ""
 
   sections:
+    Education:
+      - institution: Purdue University
+        studyType: PhD
+        start_date: 2022-01
+        end_date: present
+      - institution: Indian Institute of Technology (ISM)
+        studyType: MTech
+        start_date: 2019-08
+        end_date: 2021-05
+      - institution: Manipal Institute of Technology
+        studyType: BTech
+        start_date: 2013-08
+        end_date: 2017-05
+
     Experience:
-        position: "Graduate Research Assistant"
+      - position: Graduate Research Assistant
         company: Purdue University
         start_date: 2022-06
         end_date: present
-
-        position: "Instructor — ME 200: Thermodynamics"
+      - position: Research Intern
+        company: National Laboratory of the Rockies
+        start_date: 2025-05
+        end_date: 2025-07
+      - position: "Instructor — ME 200: Thermodynamics"
         company: Purdue University
         start_date: 2025-08
         end_date: 2025-12
-        
-        position: "Research Intern"
-        company: National Laboratory of the Rockies
-        start_date: 2025 05
-        end_date: 2025-07
-
-        position: "Graduate Teaching Assistant"
+      - position: Graduate Teaching Assistant
         company: Purdue University
         start_date: 2022-01
         end_date: 2026-05
-        Description:
-          - "ME 375: Measurements and Controls II (Jan–May 2026)"
-          - "ME 597: Distributed Energy Resources (Jan–May 2024)"
-          - "ME 308L: Fluid Mechanics Lab (Jan–May 2022)"
-          
+
     Awards:
-      - title: Runner up, Computational Interdisciplinary Graduate Programs Spring Symposium Doctoral Talk
+      - title: Runner-up, Computational Interdisciplinary Graduate Programs Spring Symposium Doctoral Talk
         awarder: Purdue University
         date: 2026
-
       - title: Bilsland Dissertation Fellow
         awarder: Purdue University
         date: 2026
-
       - title: Perry Graduate Fellowship
         awarder: Purdue University
         date: 2025
-
       - title: 1st Position, Jump Into STEM Challenge (National Building Science Competition)
         awarder: NREL
         date: 2024
-
       - title: William Uffman Fellowship
         awarder: Purdue University
         date: 2024
-
-      - title: "Gold Meda"
+      - title: "Gold Medal"
         awarder: IIT Dhanbad
         date: 2021
-
-      - title: Post Graduate Research Fellowship
+      - title: Post-Graduate Research Fellowship
         awarder: IIT Dhanbad
         date: 2019
-
       - title: 99th Percentile, Graduate Aptitude Test for Engineers (GATE)
         awarder: IIT Dhanbad
         date: 2019
-
       - title: Ranked Top 5% in Undergraduate Program
         awarder: Manipal Institute of Technology
         date: 2017
