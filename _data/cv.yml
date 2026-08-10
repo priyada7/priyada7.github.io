@@ -1,70 +1,64 @@
 cv:
-  name: Priyadarshan
-  label: PhD Candidate in Mechanical Engineering, Purdue University
-  email: priyada@purdue.edu
-  location: West Lafayette, IN, USA
-  image: ""
-  social_networks:
-    - network: Website
-      username: "" # add your site URL/handle here
-  sections:
-    Education:
-      - institution: Purdue University
-        studyType: PhD
-        start_date: 2022-01
-        end_date: present
-      - institution: Indian Institute of Technology (ISM)
-        studyType: MTech
-        start_date: 2019-08
-        end_date: 2021-05
-      - institution: Manipal Institute of Technology
-        studyType: BTech
-        start_date: 2013-08
-        end_date: 2017-05
+  - title: General Information
+    type: map
+    contents:
+      - name: Full Name
+        value: Priyadarshan
+      - name: Email
+        value: priyada@purdue.edu
+      - name: Location
+        value: West Lafayette, IN, USA
 
-    Experience:
-      - position: Graduate Research Assistant
-        company: Purdue University
-        start_date: 2022-06
-        end_date: present
-      - position: Research Intern
-        company: National Laboratory of the Rockies
-        start_date: 2025-05
-        end_date: 2025-07
-      - position: "Instructor — ME 200: Thermodynamics"
-        company: Purdue University
-        start_date: 2025-08
-        end_date: 2025-12
-      - position: Graduate Teaching Assistant
-        company: Purdue University
-        start_date: 2022-01
-        end_date: 2026-05
+  - title: Education
+    type: time_table
+    contents:
+      - title: PhD
+        institution: Purdue University
+        year: 2022 - Present
+      - title: MTech
+        institution: Indian Institute of Technology (ISM)
+        year: 2019 - 2021
+      - title: BTech
+        institution: Manipal Institute of Technology
+        year: 2013 - 2017
 
-    Awards:
-      - title: Runner-up, Computational Interdisciplinary Graduate Programs Spring Symposium Doctoral Talk
-        awarder: Purdue University
-        date: 2026
-      - title: Bilsland Dissertation Fellow
-        awarder: Purdue University
-        date: 2026
-      - title: Perry Graduate Fellowship
-        awarder: Purdue University
-        date: 2025
-      - title: 1st Position, Jump Into STEM Challenge (National Building Science Competition)
-        awarder: NREL
-        date: 2024
-      - title: William Uffman Fellowship
-        awarder: Purdue University
-        date: 2024
-      - title: "Gold Medal"
-        awarder: IIT Dhanbad
-        date: 2021
-      - title: Post-Graduate Research Fellowship
-        awarder: IIT Dhanbad
-        date: 2019
-      - title: 99th Percentile, Graduate Aptitude Test for Engineers (GATE)
-        awarder: IIT Dhanbad
-        date: 2019
-      - title: Ranked Top 5% in Undergraduate Program
-        awarder: Manipal Institute of Technology
-        date: 2017
+  - title: Experience
+    type: time_table
+    contents:
+      - title: Graduate Research Assistant
+        institution: Purdue University
+        year: 2022 - Present
+      - title: Graduate Teaching Assistant
+        institution: Purdue University
+        year: 2022 - 2026
+      - title: Instructor — ME 200 Thermodynamics
+        institution: Purdue University
+        year: 2025
+      - title: Research Intern
+        institution: National Laboratory of the Rockies
+        year: 2025
+
+  - title: Honors and Awards
+    type: time_table
+    contents:
+      - year: 2026
+        items:
+          - Runner-up, Computational Interdisciplinary Graduate Programs Spring Symposium Doctoral Talk
+          - Bilsland Dissertation Fellow
+      - year: 2025
+        items:
+          - Perry Graduate Fellowship
+      - year: 2024
+        items:
+          - 1st Position, Jump Into STEM Challenge (National Building Science Competition)
+          - William Uffman Fellowship
+      - year: 2021
+        items:
+          - Gold Medal — IIT Dhanbad
+      - year: 2019
+        items:
+          - Post-Graduate Research Fellowship
+          - 99th Percentile, GATE
+      - year: 2017
+        items:
+          - Ranked Top 5% in Undergraduate Program
