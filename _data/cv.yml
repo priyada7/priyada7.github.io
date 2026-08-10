@@ -16,20 +16,26 @@ cv:
       - institution: Purdue University
         location: West Lafayette, IN, USA
         Advisor: Kevin Kircher
-        area: Mechanical eEgineering
+        area: Mechanical Engineering
         studyType: PhD
         start_date: 2022
         end_date: present
        
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+     -  institution: Indian Institute of Technology (ISM)
+        location: Dhanbad, JH, India
+        Advisor: Subrata K. Ghosh
+        area: Mechanical eEgineering
+        studyType: MTech
+        start_date: 2019
+        end_date: 2021
+        
+    -  institution: Manipal Institute of Technology
+        location: Manipal, KA, India
+        Advisor: Srinivas Shenoy and Suhas Nayak
+        area: Mechanical eEgineering
+        studyType: BTech
+        start_date: 2013
+        end_date: 2017
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
