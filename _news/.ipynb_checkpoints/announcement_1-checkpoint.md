@@ -1,8 +1,7 @@
+# _news/2026-02-runner-up-award.md
 ---
-layout: post
-date: 2015-10-22 15:59:00-0400
 inline: true
-related_posts: false
+date: 2026-02
+categories: awards
 ---
-
-A simple inline announcement.
+**Award:** Runner-up in the Computational Interdisciplinary Graduate Programs Spring Symposium Doctoral Talk at Purdue University.
