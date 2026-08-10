@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://priyadarshan.github.io/sitemap.xml
+Sitemap: https://priyada7.github.io/sitemap.xml
