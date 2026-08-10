@@ -29,6 +29,6 @@ latest_posts:
 
 Hi there! I am a PhD candidate in [Mechanical Engineering](https://engineering.purdue.edu/ME) at [Purdue University](https://www.purdue.edu/) and specializing in [Computational Science and Engineering](https://www.purdue.edu/academics/ogsps/oigp/program/cigp/), advised by Professor [Kevin Kircher](https://kevinjkircher.com/). My research focuses on building and transportation electrification and its impact on the distribution grid. I use building-energy modeling, data-driven methods, and optimization to study technologies such as heat pumps, heat-pump water heaters and electric vehicles, with the goal of making electrification more reliable, affordable, and sustainable.
 
-Before Purdue, I completed my M.Tech. in Mechanical Engineering at [IIT (ISM) Dhanbad] (https://www.iitism.ac.in/), and received my B.Tech. in Mechanical Engineering from [Manipal Institute of Technology, Manipal](https://www.manipal.edu/mit.html).
+Before Purdue, I completed my M.Tech. in Mechanical Engineering at [IIT (ISM) Dhanbad](https://www.iitism.ac.in/), and received my B.Tech. in Mechanical Engineering from [Manipal Institute of Technology, Manipal](https://www.manipal.edu/mit.html).
 
 I enjoy teaching and mentoring. At Purdue, I have taught and assisted courses in thermodynamics and distributed energy resources. I am also interested in translating energy research into practical solutions that can help build a more reliable and sustainable energy future.
