@@ -12,8 +12,8 @@
 ---
 layout: default
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-nav_order: 5
-redirect_to: /assets/pdf/Priyadarshan_CV_2026.pdf
+nav_order: 4
+redirect_to: /assets/pdf/Priyadarshan_resume_2026.pdf
 ---
