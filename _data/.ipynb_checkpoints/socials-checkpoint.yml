@@ -4,8 +4,9 @@
 cv_pdf: /assets/pdf/Priyadarshan_resume_2026.pdf # path to your CV PDF file
 email: priyada@purdue.edu # your email address
 inspirehep_id: "" # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: Mzq4J2gAAAAJ # your Google Scholar ID
+linkedin_username: priyadarshanphd
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
