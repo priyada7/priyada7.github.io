@@ -31,4 +31,4 @@ Hi there! I am a PhD candidate in [Mechanical Engineering](https://engineering.p
 
 Before Purdue, I completed my M.Tech. in Mechanical Engineering at [IIT (ISM) Dhanbad](https://www.iitism.ac.in/), and received my B.Tech. in Mechanical Engineering from [Manipal Institute of Technology, Manipal](https://www.manipal.edu/mit.html).
 
-I enjoy teaching and mentoring. At Purdue, I have taught and assisted courses in thermodynamics and distributed energy resources. I am also interested in translating energy research into practical solutions that can help build a more reliable and sustainable energy future.
+At Purdue, I have taught and assisted courses in thermodynamics and distributed energy resources. I am also interested in translating energy research into practical solutions that can help build a more reliable and sustainable energy future.
