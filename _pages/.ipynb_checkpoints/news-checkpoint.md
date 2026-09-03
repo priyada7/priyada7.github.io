@@ -6,9 +6,6 @@ nav: true
 nav_order: 2
 ---
 
-{% include news.liquid %}
-
-
 <div class="news-filters" role="group" aria-label="Filter news by category">
   <button class="news-filter active" data-filter="all">
     <i class="fa-solid fa-layer-group"></i>
