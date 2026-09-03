@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-02-01
+date: 2026-02
 kind: award
 inline: true
 related_posts: false
