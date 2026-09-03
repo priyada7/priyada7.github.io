@@ -5,4 +5,4 @@ kind: award
 inline: true
 related_posts: false
 ---
-Received the **Bilsland Dissertation Fellowship** at Purdue University.
+Received the Bilsland Dissertation Fellowship at Purdue University, which will support my final year of PhD studies!.

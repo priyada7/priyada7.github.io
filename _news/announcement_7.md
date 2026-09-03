@@ -5,4 +5,4 @@ kind: award
 inline: true
 related_posts: false
 ---
-Received the William Uffmann Fellowship at Purdue University.
+Received the People’s Choice Say It in 6 Award, Purdue University

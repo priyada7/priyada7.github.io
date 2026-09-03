@@ -5,4 +5,4 @@ kind: award
 inline: true
 related_posts: false
 ---
-Received the **Perry Graduate Fellowship** at Purdue University.
+Received the 1st Position in Jump Into STEM Challenge, National Building Science competition, NLR
