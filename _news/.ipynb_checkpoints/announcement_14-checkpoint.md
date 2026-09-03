@@ -5,4 +5,4 @@ kind: milestone
 inline: true
 related_posts: false
 ---
-I passed my PhD area exam at Purdue University..
+I passed my PhD area exam at Purdue University.
