@@ -1,7 +1,8 @@
-# _news/2025-06-perry-fellowship.md
 ---
 inline: true
-date: 2025-06
-categories: awards
+date: 2025-06-1
+kind: award
+inline: true
+related_posts: false
 ---
-**Award:** Awarded the **Perry Graduate Fellowship** at Purdue University.
+Received the **Perry Graduate Fellowship** at Purdue University.

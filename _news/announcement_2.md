@@ -1,7 +1,8 @@
-# _news/2026-01-bilsland-fellowship.md
 ---
 inline: true
 date: 2026-01
-categories: awards
+kind: award
+inline: true
+related_posts: false
 ---
-**Award:** Awarded the **Bilsland Dissertation Fellowship** at Purdue University.
+Received the **Bilsland Dissertation Fellowship** at Purdue University.
