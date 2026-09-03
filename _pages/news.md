@@ -63,7 +63,7 @@ nav_order: 2
           </span>
 
           <time datetime="{{ item.date | date_to_xmlschema }}">
-            {{ item.date | date: "%b %Y" }}
+            {{ item.date | date: " %Y" }}
           </time>
         </div>
 
