@@ -22,9 +22,9 @@ nav_order: 2
     MILESTONE
   </button>
 
-  <button class="news-filter filter-paper" data-filter="paper">
+  <button class="news-filter filter-media" data-filter="media">
     <i class="fa-solid fa-file-lines"></i>
-    PAPER
+    MEDIA
   </button>
 
   <button class="news-filter filter-talk" data-filter="talk">
@@ -51,7 +51,7 @@ nav_order: 2
                 <i class="fa-solid fa-award"></i>
               {% when "milestone" %}
                 <i class="fa-solid fa-flag-checkered"></i>
-              {% when "paper" %}
+              {% when "media" %}
                 <i class="fa-solid fa-file-lines"></i>
               {% when "talk" %}
                 <i class="fa-solid fa-microphone"></i>
@@ -136,11 +136,11 @@ nav_order: 2
     color: #fff;
   }
 
-  .news-filter.filter-paper {
+  .news-filter.filter-media {
     border-color: #248f87;
   }
 
-  .news-filter.filter-paper.active {
+  .news-filter.filter-media.active {
     background: #248f87;
     color: #fff;
   }
@@ -185,7 +185,7 @@ nav_order: 2
     background: #659c39;
   }
 
-  .news-item.news-paper::before {
+  .news-item.news-media::before {
     background: #248f87;
   }
 
@@ -228,7 +228,7 @@ nav_order: 2
     color: #659c39;
   }
 
-  .news-paper .news-badge {
+  .news-media .news-badge {
     border-color: #248f87;
     color: #248f87;
   }
