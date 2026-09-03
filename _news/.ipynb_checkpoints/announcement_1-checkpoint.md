@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-I received the **Runner-up Award** for my doctoral talk at the **Computational Interdisciplinary Graduate Programs Spring Symposium** at Purdue University!
+I received the **Runner-up Award** for my doctoral talk at the **Computational Interdisciplinary Graduate Programs Spring Symposium** at Purdue University
