@@ -1,6 +1,6 @@
 ---
 inline: true
-date: 2026-01
+date: 2026-07-01
 kind: award
 inline: true
 related_posts: false

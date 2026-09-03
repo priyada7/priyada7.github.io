@@ -1,6 +1,6 @@
 ---
 inline: true
-date: 2015-8-1
+date: 2015-08-1
 kind: award
 inline: true
 related_posts: false

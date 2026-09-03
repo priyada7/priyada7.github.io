@@ -1,6 +1,6 @@
 ---
 inline: true
-date: 2021-8-1
+date: 2021-08-1
 kind: milestone
 inline: true
 related_posts: false
