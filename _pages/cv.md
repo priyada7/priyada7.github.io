@@ -1,19 +1,11 @@
-# ---
-# layout: cv
-# permalink: /cv/
-# title: CV
-# nav: true
-# nav_order: 5
-# cv_pdf: /assets/pdf/Priyadarshan_CV_2026.pdf
-# cv_format: rendercv # options: rendercv, jsonresume
-# toc:
-#  sidebar: left
-#---
 ---
-layout: default
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 4
-redirect_to: /assets/pdf/Priyadarshan_resume_2026.pdf
 ---
+
+You can view or download my CV below.
+
+/assets/pdf/Priyadarshan_CV.pdf{:.btn .btn-primary}
