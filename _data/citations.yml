@@ -1,12 +1,16 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-04'
 papers:
+  Mzq4J2gAAAAJ:J_g5lzvAfSwC:
+    citations: 0
+    title: Aggregate Modeling of System-Level Thermal Demand Flexibility
+    year: Unknown Year
   Mzq4J2gAAAAJ:M3NEmzRMIkIC:
     citations: 5
     title: Latent and Sensible Model Predictive Controller Demonstration in a House During Cooling Operation
     year: '2024'
   Mzq4J2gAAAAJ:O3NaXMp0MMsC:
-    citations: 9
+    citations: 10
     title: Distribution grids may be a barrier to residential electrification
     year: '2025'
   Mzq4J2gAAAAJ:RGFaLdJalmkC:
@@ -34,7 +38,7 @@ papers:
     title: Statistical and artificial neural network technique for prediction of performance in AlSi10Mg-MWCNT based composite materials
     year: '2021'
   Mzq4J2gAAAAJ:isC4tDSrTZIC:
-    citations: 67
+    citations: 68
     title: Field demonstration of predictive heating control for an all-electric house in a cold climate
     year: '2024'
   Mzq4J2gAAAAJ:j3f4tGmQtD8C:
